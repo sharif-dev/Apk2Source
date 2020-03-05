@@ -1,4 +1,4 @@
-# Apk2Source
+# .Apk to Source code
 ## Download
 For decompiling apk and dex android files first you should download :
 1. [Dex2jar](https://github.com/pxb1988/dex2jar)
