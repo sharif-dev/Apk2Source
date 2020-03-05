@@ -1,9 +1,9 @@
 # Apk2Source
 For decompiling apk and dex android files first you should download :
-1. dex2jar
-2. java decompiler
-3. ApkTool
-4. framework-res.apk
+1. [Dex2jar] (https://github.com/pxb1988/dex2jar)
+2. [Java decompiler] (http://java-decompiler.github.io/)
+3. [ApkTool](https://ibotpeaches.github.io/Apktool/install/)
+4. [Framework-res.apk](https://androidfilehost.com/?fid=23212708291677144)
 
 steps:
 Rename .apk file to .zip 
